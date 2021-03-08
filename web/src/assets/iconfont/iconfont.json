@@ -1,0 +1,37 @@
+{
+  "id": "2396565",
+  "name": "毕设",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "376667",
+      "name": "主页",
+      "font_class": "zhuye",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "9559033",
+      "name": "菜单",
+      "font_class": "ziyuan",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "10885310",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "16046580",
+      "name": "账号",
+      "font_class": "zhanghao",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    }
+  ]
+}
