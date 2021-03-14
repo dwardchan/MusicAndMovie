@@ -6,6 +6,6 @@ Vue+ElementUi+Node.js+MongoDB
 登录:  
 ![image](https://github.com/dwardchan/MusicAndMovie/blob/master/readmeIMG/2.png)   
 文章讨论页：  
-![image](https://github.com/dwardchan/MusicAndMovie/blob/master/readmeIMG/3.png)
+![image](https://github.com/dwardchan/MusicAndMovie/blob/master/readmeIMG/3.png)  
 评论功能：  
 ![image](https://github.com/dwardchan/MusicAndMovie/blob/master/readmeIMG/4.png)  
